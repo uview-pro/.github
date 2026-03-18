@@ -44,7 +44,7 @@ uView Pro 是全面支持 Vue 3.0 + TypeScript 的 uni-app 生态 UI 框架，�
 
 ## 社区
 
-- 💬 [QQ 群：811732166](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=98nSVDldWEbDdq4lxiP4aL7uATfMSlI6)
+- 💬 [QQ 群：811732166](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=98nSVDldWEbDdq4lxiP4aL7uATfMSlI6&authKey=G2yQJ5MQiKzMldaxBsIfKt17NuJuUw8Fr6zdKLggc6NZXgw4BVbqkU2U3EE994yd&noverify=0&group_code=811732166)
 - 📱 微信交流群：[点击加入](https://uviewpro.cn/zh/resource/about.html)
 
 ## 协议
