@@ -30,7 +30,8 @@ uView Pro 是全面支持 Vue 3.0 + TypeScript 的 uni-app 生态 UI 框架，�
 
 ## 文档与资源
 
-- 📖 [官方文档](https://uviewpro.cn)
+- 📖 [uView Pro 官方文档](https://uviewpro.cn)
+- 📖 [uView Pro X 官方文档](https://x.uviewpro.cn)
 - 📖 [Starter文档](https://starter.uviewpro.cn)
 - 🔧 [GitHub](https://github.com/anyup/uview-pro)
 - 📥 [插件市场](https://ext.dcloud.net.cn/plugin?id=24633)
@@ -39,14 +40,11 @@ uView Pro 是全面支持 Vue 3.0 + TypeScript 的 uni-app 生态 UI 框架，�
 
 | 仓库                                                            | 描述             |  文档             |
 | --------------------------------------------------------------- | ---------------- |  ---------------- |
-| [uView-Pro](https://github.com/anyup/uView-Pro)                 | 核心框架源码     | https://uviewpro.cn/ |
-| [uView-Pro-Starter](https://github.com/anyup/uView-Pro-Starter) | 快速启动项目模板 | https://starter.uviewpro.cn/ |
+| [uView-Pro](https://github.com/anyup/uView-Pro)                 | uView Pro 核心框架源码     | https://uviewpro.cn/ |
+| [uView-Pro-Starter](https://github.com/anyup/uView-Pro-Starter) | uView Pro 快速启动项目模板 | https://starter.uviewpro.cn/ |
+| [uView-Pro-X](https://github.com/anyup/uView-Pro)               | uView Pro X 演示示例源码   | https://x.uviewpro.cn/ |
 
 ## 社区
 
 - 💬 [QQ 群：811732166](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=98nSVDldWEbDdq4lxiP4aL7uATfMSlI6&authKey=G2yQJ5MQiKzMldaxBsIfKt17NuJuUw8Fr6zdKLggc6NZXgw4BVbqkU2U3EE994yd&noverify=0&group_code=811732166)
 - 📱 微信交流群：[点击加入](https://uviewpro.cn/zh/resource/about.html)
-
-## 协议
-
-[MIT](https://en.wikipedia.org/wiki/MIT_License) License © 2026 uView Pro
